@@ -1,0 +1,964 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob":"ca-app-pub-2206368840768261/7754178697",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+
+      "main_ads_banner": "ca-app-pub-2206368840768261/5207319670",
+      "main_ads_intertitial": "ca-app-pub-2206368840768261/9398432852",
+      "native_ads": "ca-app-pub-2206368840768261/1643479187",
+
+      "backup_ads_banner": "966f930ca95d5a0d",
+      "backup_ads_intertitial": "39ee1969895e60bd",
+      "backup_native_ads": "",
+
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+
+      "show_protect": "0",
+      "key_license": "",
+
+      "interstitial_counter": "2",
+
+      "high_paying_keyword_1": "insurance",
+      "high_paying_keyword_2": "property",
+      "high_paying_keyword_3": "finance",
+      "high_paying_keyword_4": "lawyer",
+      "high_paying_keyword_5": "credit",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+
+  "DATA": [
+    {
+      "id": 102,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:24",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "ft Nissa Sabyan - Ya Habibal Qolbi",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20ft%20Nissa%20Sabyan%20-%20Ya%20Habibal%20Qolbi.mp3"
+    },
+    {
+      "id": 101,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:24",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "ft Nissa Sabyan - Qomarun",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20ft%20Nissa%20Sabyan%20-%20Qomarun.mp3"
+    },  
+    {
+      "id": 100,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:49",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Ya Asyiqal Mustofa",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Ya%20Asyiqal%20Mustofa.mp3"
+    },
+    {
+      "id": 99,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:25",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Turi Putih",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Turi%20Putih.mp3"
+    },
+    {
+      "id": 98,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:48",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Surga Tak Di kenal",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Surga%20Tak%20Di%20kenal.mp3"
+    },
+    {
+      "id": 97,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:31",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Surat Cinta Untuk Nabi",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Surat%20Cinta%20Untuk%20Nabi.mp3"
+    },
+    {
+      "id": 96,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:32",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Sluku Sluku Bathok",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Sluku%20Sluku%20Bathok.mp3"
+    },
+    {
+      "id": 95,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:48",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Samara",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Samara.mp3"
+    },
+    {
+      "id": 94,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:22",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Rouhi Fidak",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Rouhi%20Fidak.mp3"
+    },
+    {
+      "id": 93,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:49",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Roqqot Aina Ya Asiqol Mustofa",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Roqqot%20Aina%20Ya%20Asiqol%20Mustofa.mp3"
+    },
+    {
+      "id": 92,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:50",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Rohmaka",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Rohmaka.mp3"
+    },
+    {
+      "id": 91,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "9:18",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Rindu Ayah",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Rindu%20Ayah.mp3"
+    },
+    {
+      "id": 90,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:45",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Kami Santri Bukan Artis",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Kami%20Santri%20Bukan%20Artis.mp3"
+    },
+    {
+      "id": 89,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:21",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Ibu Kau Rindu",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Ibu%20Kau%20Rindu.mp3"
+    },
+    {
+      "id": 88,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:44",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Hayyul Hadi",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Hayyul%20Hadi.mp3"
+    },
+    {
+      "id": 87,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:51",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Ditinggal Rabi Versi Sholawat",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Ditinggal%20Rabi%20Versi%20Sholawat.mp3"
+    },
+    {
+      "id": 86,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:46",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Cinta Nabi Versi Jaran Goyang",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Cinta%20Nabi%20Versi%20Jaran%20Goyang.mp3"
+    },
+    {
+      "id": 85,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:51",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Cinta Dalam Istikhoroh",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Cinta%20Dalam%20Istikhoroh.mp3"
+    },
+    {
+      "id": 84,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "3:52",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Ayo Mondok",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Ayo%20Mondok.mp3"
+    },
+    {
+      "id": 83,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:50",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Astagfirullah versi Kelangan",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Astagfirullah%20versi%20Kelangan.mp3"
+    },
+    {
+      "id": 82,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:53",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Annabi Shollu Alaih",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Annabi%20Shollu%20Alaih.mp3"
+    },
+    {
+      "id": 81,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:43",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Anabi Shollu Alaih",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Anabi%20Shollu%20Alaih.mp3"
+    },
+    {
+      "id": 80,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:55",
+      "image": "https://i.pinimg.com/originals/9c/fb/76/9cfb76748917476e40ebd412029f6057.jpg",
+      "title": "Al Fatihah Untukmu Guru",
+      "url": "https://archive.org/download/GusAzmisholawat/Gus%20Azmi%20-%20Al%20Fatihah%20Untukmu%20Guru.mp3"
+    },
+    
+    
+    {
+      "id": 79,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:17",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "YA ROBBI",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/YA%20ROBBI.mp3"
+    },
+    {
+      "id": 78,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:31",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "YA HAYATIRRUH",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/YA%20HAYATIRRUH.mp3"
+    },
+    {
+      "id": 77,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "12:31",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "YA HABIBAL QOLBI",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/YA%20HABIBAL%20QOLBI.mp3"
+    },
+    {
+      "id": 76,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:32",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "YA ASYQOL MUSTHOFA",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/YA%20ASYQOL%20MUSTHOFA.mp3"
+    },
+    {
+      "id": 75,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "9:40",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "TURI PUTIH",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/TURI%20PUTIH.mp3"
+    },
+    {
+      "id": 74,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:53",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "SURGA TAK DIKENAL",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/SURGA%20TAK%20DIKENAL.mp3"
+    },
+    {
+      "id": 73,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:26",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "SURAT CINTA UNTUK NABI",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/SURAT%20CINTA%20UNTUK%20NABI.mp3"
+    },
+    {
+      "id": 72,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:45",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "SANTRI BUKAN ARTIS",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/SANTRI%20BUKAN%20ARTIS.mp3"
+    },
+    {
+      "id": 71,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "12:00",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "SANDARAN JIWA",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/SANDARAN%20JIWA.mp3"
+    },
+    {
+      "id": 70,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:41",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "SAMARA",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/SAMARA.mp3"
+    },
+    {
+      "id": 69,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:49",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "ROHMAKA",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/ROHMAKA.mp3"
+    },
+    {
+      "id": 68,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:18",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "ROBBI KHOLAQ",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/ROBBI%20KHOLAQ.mp3"
+    },
+    {
+      "id": 67,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "10:16",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "RINDU AYAH",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/RINDU%20AYAH.mp3"
+    },
+    {
+      "id": 66,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:30",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "MINAL QUDUSI",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/MINAL%20QUDUSI.mp3"
+    },
+    {
+      "id": 65,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:32",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "MALAIKATKU",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/MALAIKATKU.mp3"
+    },
+    {
+      "id": 64,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:35",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "KIAMAT SUDAH DEKAT",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/KIAMAT%20SUDAH%20DEKAT.mp3"
+    },
+    {
+      "id": 63,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:31",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "JOMBLO SANTAI",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/JOMBLO%20SANTAI.mp3"
+    },
+    {
+      "id": 62,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:45",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "IBU AKU RUNDU",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/IBU%20AKU%20RUNDU.mp3"
+    },
+    {
+      "id": 61,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:56",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "HAYYUL HADI",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/HAYYUL%20HADI.mp3"
+    },
+    {
+      "id": 60,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:36",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "DILAN",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/DILAN.mp3"
+    },
+    {
+      "id": 59,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:12",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "CINTA PALSU",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/CINTA%20PALSU.mp3"
+    },
+    {
+      "id": 58,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:43",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "AYO MOVE ON",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/AYO%20MOVE%20ON.mp3"
+    },
+    {
+      "id": 57,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:15",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "AYO MONDOK",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/AYO%20MONDOK.mp3"
+    },
+    {
+      "id": 56,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:36",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "ASTAGHFIRULLAH",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/ASTAGHFIRULLAH.mp3"
+    },
+    {
+      "id": 55,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:05",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "ANNABI SHOLLU ALAIH",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/ANNABI%20SHOLLU%20ALAIH.mp3"
+    },
+    {
+      "id": 54,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:48",
+      "image": "https://i.pinimg.com/originals/b9/96/22/b99622a1bb9edfb30ceafe21568e6aa7.jpg",
+      "title": "ALFATIHAH UNTUKMU",
+      "url": "https://archive.org/download/GUSAZMITERPOPULER/ALFATIHAH%20UNTUKMU.mp3"
+    },
+    
+    
+    {
+      "id": 53,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:41",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "adek berjilbab ungu",
+      "url": "https://archive.org/download/1234_20190717_201907/adek%20berjilbab%20ungu.mp3"
+    },
+    {
+      "id": 52,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:02",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "Ya Habibal Qolbi",
+      "url": "https://archive.org/download/1234_20190717_201907/Ya%20Habibal%20Qolbi.mp3"
+    },
+    {
+      "id": 51,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:49",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "Taretan Sa Lawase",
+      "url": "https://archive.org/download/1234_20190717_201907/Taretan%20Sa%20Lawase.mp3"
+    },
+    {
+      "id": 50,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:18",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "Senandung Rindu",
+      "url": "https://archive.org/download/1234_20190717_201907/Senandung%20Rindu.mp3"
+    },
+    {
+      "id": 49,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "3:20",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "SARJANA (sarungan aja kemana mana)",
+      "url": "https://archive.org/download/1234_20190717_201907/SARJANA%20%28sarungan%20aja%20kemana%20mana%29.mp3"
+    },
+    {
+      "id": 48,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:07",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "ROBBI KHOLAQ",
+      "url": "https://archive.org/download/1234_20190717_201907/ROBBI%20KHOLAQ.mp3"
+    },
+    {
+      "id": 47,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:38",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "PERCUMA JADI SANTRI",
+      "url": "https://archive.org/download/1234_20190717_201907/PERCUMA%20JADI%20SANTRI.mp3"
+    },
+    {
+      "id": 46,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:14",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "MALAIKATKU",
+      "url": "https://archive.org/download/1234_20190717_201907/MALAIKATKU.mp3"
+    },
+    {
+      "id": 45,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:20",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "KHUDZUNI",
+      "url": "https://archive.org/download/1234_20190717_201907/KHUDZUNI.mp3"
+    },
+    {
+      "id": 44,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:30",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "JOMBLO SANTAI",
+      "url": "https://archive.org/download/1234_20190717_201907/JOMBLO%20SANTAI.mp3"
+    },
+    {
+      "id": 43,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:13",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "HABIBI YA THOBIBI",
+      "url": "https://archive.org/download/1234_20190717_201907/HABIBI%20YA%20THOBIBI.mp3"
+    },
+    {
+      "id": 42,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "9:23",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "Guru Mulia",
+      "url": "https://archive.org/download/1234_20190717_201907/Guru%20Mulia.mp3"
+    },
+    {
+      "id": 41,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "10:04",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "Doaku",
+      "url": "https://archive.org/download/1234_20190717_201907/Doaku.mp3"
+    },
+    {
+      "id": 40,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:47",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "Alfatihah Untukmu",
+      "url": "https://archive.org/download/1234_20190717_201907/Alfatihah%20Untukmu.mp3"
+    },
+    {
+      "id": 39,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:32",
+      "image": "https://i.pinimg.com/originals/f5/ed/dd/f5eddd31a84f77555e554de19b5348ef.jpg",
+      "title": "AKU RINDU",
+      "url": "https://archive.org/download/1234_20190717_201907/AKU%20RINDU.mp3"
+    },
+
+
+    {
+      "id": 38,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:42",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "urip ning dunyo",
+      "url": "https://archive.org/download/NewTuriPutih/urip%20ning%20dunyo.mp3"
+    },
+    {
+      "id": 37,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:23",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Ya Robbi Bil-Mustofa Versi Santreh Aoleng",
+      "url": "https://archive.org/download/NewTuriPutih/Ya%20Robbi%20Bil-Mustofa%20Versi%20Santreh%20Aoleng.mp3"
+    },
+    {
+      "id": 36,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:32",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Ya Asyiqol Musthofa",
+      "url": "https://archive.org/download/NewTuriPutih/Ya%20Asyiqol%20Musthofa.mp3"
+    },
+    {
+      "id": 35,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:41",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Terbaru  SAMARA - Gus Azmi",
+      "url": "https://archive.org/download/NewTuriPutih/Terbaru%20%20SAMARA%20-%20Gus%20Azmi.mp3"
+    },
+    {
+      "id": 34,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:31",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Terbaru  Qomarun - Rebana keren",
+      "url": "https://archive.org/download/NewTuriPutih/Terbaru%20%20Qomarun%20-%20Rebana%20keren.mp3"
+    },
+    {
+      "id": 33,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:16",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Syubbanul Muslimin - Annabi Shollu Alaih",
+      "url": "https://archive.org/download/NewTuriPutih/Syubbanul%20Muslimin%20-%20Annabi%20Shollu%20Alaih.mp3"
+    },
+    {
+      "id": 32,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:47",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Syubbanul Muslimin - Alfatihah Untukmu",
+      "url": "https://archive.org/download/NewTuriPutih/Syubbanul%20Muslimin%20-%20Alfatihah%20Untukmu.mp3"
+    },
+    {
+      "id": 31,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "3:56",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Syi'ir Tanpo Waton",
+      "url": "https://archive.org/download/NewTuriPutih/Syi%27ir%20Tanpo%20Waton.mp3"
+    },
+    {
+      "id": 30,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:53",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Surga Tak di Kenal",
+      "url": "https://archive.org/download/NewTuriPutih/Surga%20Tak%20di%20Kenal.mp3"
+    },
+    {
+      "id": 29,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:26",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Surat Cinta Untuk Nabi",
+      "url": "https://archive.org/download/NewTuriPutih/Surat%20Cinta%20Untuk%20Nabi.mp3"
+    },
+    {
+      "id": 28,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:30",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Sholatullahima Versi Wedus",
+      "url": "https://archive.org/download/NewTuriPutih/Sholatullahima%20Versi%20Wedus.mp3"
+    },
+    {
+      "id": 27,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "9:18",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Semua Karena Cinta",
+      "url": "https://archive.org/download/NewTuriPutih/Semua%20Karena%20Cinta.mp3"
+    },
+    {
+      "id": 26,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:39",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Santri Bukan Artis",
+      "url": "https://archive.org/download/NewTuriPutih/Santri%20Bukan%20Artis.mp3"
+    },
+    {
+      "id": 25,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "9:02",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Roqqot Aina - Hafidzul Ahkam",
+      "url": "https://archive.org/download/NewTuriPutih/Roqqot%20Aina%20-%20Hafidzul%20Ahkam..mp3"
+    },
+    {
+      "id": 24,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:10",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Rohman Ya Rohman",
+      "url": "https://archive.org/download/NewTuriPutih/Rohman%20Ya%20Rohman.mp3"
+    },
+    {
+      "id": 23,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "9:40",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New Turi putih",
+      "url": "https://archive.org/download/NewTuriPutih/New%20Turi%20putih.mp3"
+    },
+    {
+      "id": 22,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:50",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New  Ya Rosulullah",
+      "url": "https://archive.org/download/NewTuriPutih/New%20%20Ya%20Rosulullah.mp3"
+    },
+    {
+      "id": 21,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:35",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New  Sahabatku Engkaulah Bintang Hatiku",
+      "url": "https://archive.org/download/NewTuriPutih/New%20%20Sahabatku%20Engkaulah%20Bintang%20Hatiku.mp3"
+    },
+    {
+      "id": 20,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:03",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New  Qosidah Demam Sosmed",
+      "url": "https://archive.org/download/NewTuriPutih/New%20%20Qosidah%20Demam%20Sosmed.mp3"
+    },
+    {
+      "id": 19,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:07",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New  Cinta Palsu",
+      "url": "https://archive.org/download/NewTuriPutih/New%20%20Cinta%20Palsu.mp3"
+    },
+    {
+      "id": 18,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "5:55",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New  Ahmad Ya Habibi",
+      "url": "https://archive.org/download/NewTuriPutih/New%20%20Ahmad%20Ya%20Habibi.mp3"
+    },
+    {
+      "id": 17,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:17",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "New   Ya Robbi Versi Cinta",
+      "url": "https://archive.org/download/NewTuriPutih/New%20%20%20Ya%20Robbi%20Versi%20Cinta.mp3"
+    },
+    {
+      "id": 16,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:45",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "NEW  Rohatil Athyaru Tasydu",
+      "url": "https://archive.org/download/NewTuriPutih/NEW%20%20Rohatil%20Athyaru%20Tasydu.mp3"
+    },
+    {
+      "id": 15,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:50",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "NEW  CINTA DALAM ISTIKHAROH",
+      "url": "https://archive.org/download/NewTuriPutih/NEW%20%20CINTA%20DALAM%20ISTIKHAROH.mp3"
+    },
+    {
+      "id": 14,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:36",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "NEW  Astagfirullah",
+      "url": "https://archive.org/download/NewTuriPutih/NEW%20%20Astagfirullah.mp3"
+    },
+    {
+      "id": 13,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:52",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Lirik Lagu ayo Move On",
+      "url": "https://archive.org/download/NewTuriPutih/Lirik%20Lagu%20%E2%80%9Cayo%20Move%20On.mp3"
+    },
+    {
+      "id": 12,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:35",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Kiamat Sudah Dekat",
+      "url": "https://archive.org/download/NewTuriPutih/Kiamat%20Sudah%20Dekat.mp3"
+    },
+    {
+      "id": 11,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:49",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Kami Datang Mengharap Cinta",
+      "url": "https://archive.org/download/NewTuriPutih/Kami%20Datang%20Mengharap%20Cinta.mp3"
+    },
+    {
+      "id": 10,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:44",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Jomblo Fi Sabilillah",
+      "url": "https://archive.org/download/NewTuriPutih/Jomblo%20Fi%20Sabilillah.mp3"
+    },
+    {
+      "id": 9,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:54",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Istriku Engkau Ratu Di Hatiku",
+      "url": "https://archive.org/download/NewTuriPutih/Istriku%20Engkau%20Ratu%20Di%20Hatiku.mp3"
+    },
+    {
+      "id": 8,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:56",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Hayyul Hadi",
+      "url": "https://archive.org/download/NewTuriPutih/Hayyul%20Hadi.mp3"
+    },
+    {
+      "id": 7,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:48",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Gus Azmi - Alfatihah Untukmu",
+      "url": "https://archive.org/download/NewTuriPutih/Gus%20Azmi%20-%20Alfatihah%20Untukmu.mp3"
+    },
+    {
+      "id": 6,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "8:07",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Duet Bikin Baper Ya Habibal Qolbi",
+      "url": "https://archive.org/download/NewTuriPutih/Duet%20Bikin%20Baper%20Ya%20Habibal%20Qolbi.mp3"
+    },
+    {
+      "id": 5,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "6:50",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "CINTA DALAM ISTIKHAROH",
+      "url": "https://archive.org/download/NewTuriPutih/CINTA%20DALAM%20ISTIKHAROH.mp3"
+    },
+    {
+      "id": 4,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "7:57",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Bikin Baper Ibu Aku Rindu",
+      "url": "https://archive.org/download/NewTuriPutih/Bikin%20Baper%20Ibu%20Aku%20Rindu.mp3"
+    },
+    {
+      "id": 3,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:31",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Ayo Mondok",
+      "url": "https://archive.org/download/NewTuriPutih/Ayo%20Mondok.mp3"
+    },
+    {
+      "id": 2,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:44",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Annabi Shollu Alaih",
+      "url": "https://archive.org/download/NewTuriPutih/Annabi%20Shollu%20Alaih.mp3"
+    },
+    {
+      "id": 1,
+      "album": "",
+      "artist": "Gus Azmi",
+      "duration": "4:02",
+      "image": "https://i.pinimg.com/originals/d8/67/2d/d8672da618a67140cb17d8f489bbd557.jpg",
+      "title": "Alangkah Indahnya Hidup",
+      "url": "https://archive.org/download/NewTuriPutih/Alangkah%20Indahnya%20Hidup.mp3"
+    }
+  ]
+}
