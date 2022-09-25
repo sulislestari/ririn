@@ -15,7 +15,7 @@
          "backup_ads_rewards":"6edb4129c31e2945",
 
          "interval_for_native":"8",
-         "interval_intertitial":3,
+         "interval_intertitial":2,
          "survey_api_key":"REPLACE_WITH_YOUR_API_KEY",
 
          "on_off_survey":"0",
