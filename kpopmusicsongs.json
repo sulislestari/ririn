@@ -1,20 +1,20 @@
 {
   "ADS": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads": "APPLOVIN-M",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads": "APPLOVIN-D",
       
-      "open_ads_admob":"ca-app-pub-2206368840768261/7872820548",
+      "open_ads_admob":"ca-app-pub-2206368840768261/7872820548x",
       "open_ads_alien":"",
-      "switch_open_ads":"1",
+      "switch_open_ads":"0",
       
-      "main_ads_banner": "ca-app-pub-2206368840768261/2869310848",
-      "main_ads_intertitial": "ca-app-pub-2206368840768261/7930065836",
-      "native_ads": "ca-app-pub-2206368840768261/9185902216",
+      "backup_ads_banner": "  966f930ca95d5a0d",
+      "backup_ads_intertitial": "39ee1969895e60bd",
+      "backup_native_ads": "  966f930ca95d5a0d",
 
-      "backup_ads_banner": "0b581100c554e669",
+      "main_ads_banner": "0b581100c554e669",
       "backup_ads_intertitial": "252edca6552939f8",
-      "backup_native_ads": "aad94c53236695ae",
+      "native_ads": "aad94c53236695ae",
       
       "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
