@@ -1,0 +1,1410 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob":"ca-app-pub-2206368840768261/5841776318",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+
+      "main_ads_banner": "ca-app-pub-2206368840768261/8649856760",
+      "main_ads_intertitial": "ca-app-pub-2206368840768261/7145203406",
+      "native_ads": "ca-app-pub-2206368840768261/6953631711",
+
+      "backup_ads_banner": "966f930ca95d5a0d",
+      "backup_ads_intertitial": "39ee1969895e60bd",
+      "backup_native_ads": "966f930ca95d5a0d",
+
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+
+      "show_protect": "0",
+      "key_license": "",
+
+      "interstitial_counter": "2",
+
+      "high_paying_keyword_1": "insurance",
+      "high_paying_keyword_2": "property",
+      "high_paying_keyword_3": "finance",
+      "high_paying_keyword_4": "lawyer",
+      "high_paying_keyword_5": "credit",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+
+  "DATA": [
+  {
+        "id": 152,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:34",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Yaariyan Love Me Thoda Aur",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Yaariyan%20Love%20Me%20Thoda%20Aur.mp3"
+    },
+    {
+        "id": 151,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:27",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Yaad Hai Na",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Yaad%20Hai%20Na.mp3"
+    },
+    {
+        "id": 150,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "3:19",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Suno Na Sangemarmar",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Suno%20Na%20Sangemarmar.mp3"
+    },
+    {
+        "id": 149,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:27",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Samjhawan",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Samjhawan.mp3"
+    },
+    {
+        "id": 148,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:51",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Raaz Aankhein Teri",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Raaz%20Aankhein%20Teri.mp3"
+    },
+    {
+        "id": 147,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "5:30",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Phir Mohabbat",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Phir%20Mohabbat.mp3"
+    },
+    {
+        "id": 146,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:48",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Phir Kabhi",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Phir%20Kabhi.mp3"
+    },
+    {
+        "id": 145,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "3:43",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Palat Tera Hero Idhar Hai",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Palat%20Tera%20Hero%20Idhar%20Hai.mp3"
+    },
+    {
+        "id": 144,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "2:19",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Muskurane",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Muskurane.mp3"
+    },
+    {
+        "id": 143,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "5:00",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Lo Maan Liya Lo",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Lo%20Maan%20Liya%20Lo.mp3"
+    },
+    {
+        "id": 142,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:11",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Kabhi Jo Baadal Barse",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Kabhi%20Jo%20Baadal%20Barse.mp3"
+    },
+    {
+        "id": 141,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "5:05",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Itni Si Baat Hai",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Itni%20Si%20Baat%20Hai.mp3"
+    },
+    {
+        "id": 140,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:19",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Hamdard",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Hamdard.mp3"
+    },
+    {
+        "id": 139,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "6:39",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Hamari Adhuri Kahani",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Hamari%20Adhuri%20Kahani.mp3"
+    },
+    {
+        "id": 138,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:25",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Dil Ke Paas",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Dil%20Ke%20Paas.mp3"
+    },
+    {
+        "id": 137,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:52",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Dekh Lena",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Dekh%20Lena.mp3"
+    },
+    {
+        "id": 136,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "5:05",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Chahun Main Ya Na",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Chahun%20Main%20Ya%20Na.mp3"
+    },
+    {
+        "id": 135,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:09",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Agent Vinod",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Agent%20Vinod.mp3"
+    },
+    {
+        "id": 134,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "2:59",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Ae Dil Hai Mushkil",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Ae%20Dil%20Hai%20Mushkil.mp3"
+    },
+    {
+        "id": 133,
+        "album": "",
+        "artist": "Arijit Singh",
+        "duration": "4:22",
+        "image": "https://i.pinimg.com/originals/8d/af/94/8daf94d8f3d4cd610ab64b8d7e199c63.jpg",
+        "title": "Aaj Phir Tumpe Pyaar Aaya",
+        "url": "https://archive.org/download/LaguArijitSinghTerbaik_201701/Aaj%20Phir%20Tumpe%20Pyaar%20Aaya.mp3"
+    },
+    
+    
+    {
+        "id": 132,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "6:07",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Oh My Darling",
+        "url": "https://file.dewamp3ku.com/OST%20India/Lagu%20India%20Populer/Oh%20My%20Darling.mp3"
+    },
+    {
+        "id": 131,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "4:27",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tum hi ho song",
+        "url": "https://archive.org/download/tum-hi-ho_202005/Tum%20Hi%20Ho.mp3"
+    },
+    {
+        "id": 130,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "4:41",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tujh Mein Rab Dikhta Hai",
+        "url": "https://file.dewamp3ku.com/OST%20India/Lagu%20India%20Populer/Tujh%20Mein%20Rab%20Dikhta%20Hai.mp3"
+    },
+    {
+        "id": 129,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:43",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "You Are My Soniya",
+        "url": "https://file.dewamp3ku.com/OST%20India/Lagu%20India%20Populer/You%20Are%20My%20Soniya.mp3"
+    },
+    {
+        "id": 128,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "4:29",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ae Dil Hai Mushkil",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Ae%20Dil%20Hai%20Mushkil%20Title%20Track%20%28From%20%20Ae%20Dil%20Hai%20Mushkil%20%29.mp3"
+    },
+    {
+        "id": 127,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "4:29",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dil Laga Liya Maine",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Dil%20Laga%20Liya%20Maine.mp3"
+    },
+    {
+        "id": 126,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Galliyan",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Galliyan%20%28From%20%20Ek%20Villain%20%29.mp3"
+    },
+    {
+        "id": 125,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "6:38",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Hamari Adhuri Kahani",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Hamari%20Adhuri%20Kahani%20%28Title%20Track%29%20%5BFrom%20%20Hamari%20Adhuri%20Kahani%20%5D.mp3"
+    },
+    {
+        "id": 124,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "3:50",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Hum Saath - Saath Hain",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Hum%20Saath%20-%20Saath%20Hain.mp3"
+    },
+    {
+        "id": 123,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:07",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Hum to Dil Se Haare",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Hum%20to%20Dil%20Se%20Haare%20%28From%20%20Josh%20%29.mp3"
+    },
+    {
+        "id": 122,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:37",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Jo Bhi Kasmein",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Jo%20Bhi%20Kasmein.mp3"
+    },
+    {
+        "id": 121,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "2:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Kaun Tujhe",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Kaun%20Tujhe%20%28Armaan%20Malik%20Version%29.mp3"
+    },
+    {
+        "id": 120,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:13",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Khushiyan Aur Gham",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Khushiyan%20Aur%20Gham.mp3"
+    },
+    {
+        "id": 119,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "4:25",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Meri Aashiqui",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Meri%20Aashiqui.mp3"
+    },
+    {
+        "id": 118,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:51",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tum Dil Ki Dhadkan Mein",
+        "url": "https://file.dewamp3ku.com/OST%20India/India%20sedih/Tum%20Dil%20Ki%20Dhadkan%20Mein%20%28From%20%20Dhadkan%20%29.mp3"
+    },
+    {
+        "id": 117,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "3:14",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dekho Re Dekho Aaya",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Radha%20Khrisna/Dekho%20Re%20Dekho%20Aaya%20Govinda%20%28Lyrical%20Video%29%20%21%20RadhaKrishan%20Serial%20Song.mp3"
+    },
+    {
+        "id": 116,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "5:21",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Kya ho raha,kyu ho raha",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Radha%20Khrisna/Kya%20ho%20raha%2Ckyu%20ho%20raha.mp3"
+    },
+    {
+        "id": 115,
+        "album": "Populer",
+        "artist": "India Songs",
+        "duration": "2:18",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Lord radha Krishna arati",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Radha%20Khrisna/Lord%20radha%20Krishna%20arati%20song%20with%20lyrics%20NCreation.mp3"
+    },
+    {
+        "id": 114,
+        "album": "OST Radha Khrisna",
+        "artist": "India Songs",
+        "duration": "3:36",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Prem MilanRadha Krishna",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Radha%20Khrisna/Prem%20MilanRadha%20Krishna%20Milan%20SongLagu%20Tarian%20Radha%20Krishna%20ANTV.mp3"
+    },
+    {
+        "id": 113,
+        "album": "OST Radha Khrisna",
+        "artist": "India Songs",
+        "duration": "3:43",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "RADHAKRISHN Rasleela",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Radha%20Khrisna/RADHAKRISHN%20Rasleela.mp3"
+    },
+    {
+        "id": 112,
+        "album": "OST Ranveer Ishani",
+        "artist": "India Songs",
+        "duration": "4:31",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Judaai",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Ranveer%20Ishani/Judaai%20%28From%20%20Badlapur%29.mp3"
+    },
+    {
+        "id": 111,
+        "album": "OST Ranveer Ishani",
+        "artist": "India Songs",
+        "duration": "5:52",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Mere Humsafar",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Ranveer%20Ishani/Mere%20Humsafar.mp3"
+    },
+    {
+        "id": 110,
+        "album": "OST Ranveer Ishani",
+        "artist": "India Songs",
+        "duration": "4:55",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Milne Hai Mujhse Aayi",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Ranveer%20Ishani/Milne%20Hai%20Mujhse%20Aayi.mp3"
+    },
+    {
+        "id": 109,
+        "album": "OST Ranveer Ishani",
+        "artist": "India Songs",
+        "duration": "3:38",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Sun Saathiya",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Ranveer%20Ishani/Sun%20Saathiya.mp3"
+    },
+    {
+        "id": 108,
+        "album": "OST Gopi",
+        "artist": "India Songs",
+        "duration": "2:23",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Gopi",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Gopi/Lagu%20serial%20Gopi%20beserta%20liriknya.mp3"
+    },
+    {
+        "id": 107,
+        "album": "OST Gopi",
+        "artist": "India Songs",
+        "duration": "6:27",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "HAMARI ADHURI KAHANI",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Lonceng%20Cinta/HAMARI%20ADHURI%20KAHANI%20LIRIK%20DAN%20TERJEMAHAN%20INDONESIAHAMARI%20ADHURI%20KAHANI%20%282015%29.mp3"
+    },
+    {
+        "id": 106,
+        "album": "OST Gopi",
+        "artist": "India Songs",
+        "duration": "3:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "O Rabba Ki KaraKumkum Bhagya",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Lonceng%20Cinta/O%20Rabba%20Ki%20KaraKumkum%20BhagyaTitle%20Song%28Lyrics%29Zee%20TvSerial.mp3"
+    },
+    {
+        "id": 105,
+        "album": "OST Lonceng Cinta",
+        "artist": "India Songs",
+        "duration": "5:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "SANAM RE",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Lonceng%20Cinta/SANAM%20RE%20Title%20Song%20%28LYRICAL%29%20Sanam%20Re%20Pulkit%20Samrat%2C%20Yami%20Gautam%2C%20Divya%20Khosla%20Kumar%20T-Se.mp3"
+    },
+    {
+        "id": 104,
+        "album": "OST Jodha Akbar",
+        "artist": "India Songs",
+        "duration": "2:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ahasama Ridawa",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Jodha%20Akbar/Ahasama%20Ridawa%20%5BJodha%20Akbar%20Theme%20Song%5D%20Lyrics%20from%20GalleMedia.net.mp3"
+    },
+    {
+        "id": 103,
+        "album": "OST Jodha Akbar",
+        "artist": "India Songs",
+        "duration": "2:50",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ape Wela",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Jodha%20Akbar/Ape%20Wela%20%28Hiru%20TV%20Jodha%20Akbar%20Theme%20Song%2003%29%20-%20Surendra%20Perera%20%26%20Sashika%20Nisansala%20%5Bwww.hirutv.l.mp3"
+    },
+    {
+        "id": 102,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "0:54",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Aasoon Ka Rishta",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Aasoon%20Ka%20Rishta.mp3"
+    },
+    {
+        "id": 101,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "1:03",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Apni Apni Saath",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Apni%20Apni%20Saath%20Song.mp3"
+    },
+    {
+        "id": 100,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "1:53",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Bandh Gaya Yeh",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Bandh%20Gaya%20Yeh.mp3"
+    },
+    {
+        "id": 99,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "1:17",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dil Kahi Rukta Nahi",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Dil%20Kahi%20Rukta%20Nahi.mp3"
+    },
+    {
+        "id": 98,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "0:35",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Do Alag Alag Dil Ka",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Do%20Alag%20Alag%20Dil%20Ka.mp3"
+    },
+    {
+        "id": 97,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "1:15",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ek Naadi Ke Do Log",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Ek%20Naadi%20Ke%20Do%20Log.mp3"
+    },
+    {
+        "id": 96,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "1:16",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Hasne Laaga Yeh Shehra",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Hasne%20Laaga%20Yeh%20Shehra.mp3"
+    },
+    {
+        "id": 95,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "3:45",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Janam Janam",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Janam%20Janam.mp3"
+    },
+    {
+        "id": 94,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "3:34",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Jeena Jeena",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Jeena%20Jeena.mp3"
+    },
+    {
+        "id": 93,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "5:01",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tere Dil Ka Mere Dil Se Rishta Purana Hai",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Tere%20Dil%20Ka%20Mere%20Dil%20Se%20Rishta%20Purana%20Hai.mp3"
+    },
+    {
+        "id": 92,
+        "album": "OST Mohabbatein",
+        "artist": "India Songs",
+        "duration": "1:15",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Yeh Khatti Meethi",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mohabbatein%20ANTV/Yeh%20Khatti%20Meethi.mp3"
+    },
+    {
+        "id": 91,
+        "album": "OST Uttaran",
+        "artist": "India Songs",
+        "duration": "1:02",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Uttaran",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Uttaran/Lirik%20lagu%20Uttaran.mp3"
+    },
+    {
+        "id": 90,
+        "album": "OST Chandra Nandini",
+        "artist": "India Songs",
+        "duration": "2:05",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Laa Laa Laa",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Chandra%20Nandini/Lagu%20%28Laa%20Laa%20Laa%29Romantis%20-%20Chandra%20Nandini%20ANTV.mp3"
+    },
+    {
+        "id": 89,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "2:36",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Choti si umar parnai o bhabhosa balika",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Anandhi/Choti%20si%20umar%20parnai%20o%20bhabhosa%20%28Lyrics%29%20balika%20vadhu%20song.Mp4.mp3"
+    },
+    {
+        "id": 88,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ishq Mein",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Ishq%20Mein%20Marjawan/Ishq%20Mein%20Marjawan%20Female%20Version%20Full%20Title%20Song%20Alisha%20Panwar%20%26%20Arjun%20BijlaniArohi%20%26%20DeepLyric.mp3"
+    },
+    {
+        "id": 87,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:10",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Galliyan Shraddha",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Geet%20ANTV/Galliyan%20%28Unplugged%29%20Full%20Video%20Song%20by%20Shraddha%20KapoorEk%20VillainAnkit%20Tiwari.mp3"
+    },
+    {
+        "id": 86,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:52",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Meri Duniya Mein Tum Bin Priyanshu Chatterjee",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Geet%20ANTV/Meri%20Duniya%20Mein%20Full%20Song%20with%20Lyrics%20Tum%20Bin%20Priyanshu%20Chatterjee%2C%20Sandali%20Sinha.mp3"
+    },
+    {
+        "id": 85,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "5:31",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Saajna",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Nazar%20ANTV/Saajna%20Full%20Song%20Nazar%20Star%20PlusScreen%20JournalPiya%20version.mp3"
+    },
+    {
+        "id": 84,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "2:45",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Naagin",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Naagin%2012%20Rani%20Avantika%20theme%20Naagin%203%20NaagRani%20Bella%20theme.mp3"
+    },
+    {
+        "id": 83,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "1:05",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Naag Money O Sanam Tere Hai Hum",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Naagin%204%20Naag%20Money%20O%20Sanam%20Tere%20Hai%20Hum%20-%20Full%20Song%20OST%20Official%20Soundtrack%20Puneet%20Di.mp3"
+    },
+    {
+        "id": 82,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:06",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dil Ibaadat Kar Raha Hai",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Naagin%205%20Title%20Song%20Dil%20Ibaadat%20Kar%20Raha%20Hai%20Veer%20%26%20Bani%20Naagin%205%20New%20Song.mp3"
+    },
+    {
+        "id": 81,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "1:37",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Jata Kata Hansbhram",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Naagin%20S03%20Jata%20Kata%20Hansbhram%20Theme%21%21%21.mp3"
+    },
+    {
+        "id": 80,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:02",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Naagin ki shakti shiv",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Naagin%20ki%20shakti%20shiv%20official%20song.mp3"
+    },
+    {
+        "id": 79,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:11",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Naagin shivanya",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Naagin%20shivanya%20theme%20song.mp3"
+    },
+    {
+        "id": 78,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:38",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tera Pyar Jivan ka hai Aaina",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Naagin/Tera%20Pyar%20Jivan%20ka%20hai%20Aaina.mp3"
+    },
+    {
+        "id": 77,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "1:20",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "pitama",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Bhishma%20theme%20song%20%28pitamah%29%20Mahabharat.mp3"
+    },
+    {
+        "id": 76,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:21",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Draupadi",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Draupadi%20Theme%20Song%20%28Slow%20and%20Fast%20Version%29%20Mahabharat%20Star%20Plus.mp3"
+    },
+    {
+        "id": 75,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:42",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Hai Katha Sangram Ki Mahabharat",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Hai%20Katha%20Sangram%20Ki%20Mahabharat%20Full%20Title%20Song.mp3"
+    },
+    {
+        "id": 74,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:32",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Jagat Mein Samay Maha Balwaan",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Jagat%20Mein%20Samay%20Maha%20Balwaan%20Song%20Starplus%20Mahabharat%20Original%20Song%20Singer%20Rohit%20Shastri.mp3"
+    },
+    {
+        "id": 73,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:01",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "KRISHNA MANMOHANA",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/KRISHNA%20MANMOHANA%20KRISHNA%20THEME%20MAHABHARAT%20FULL%20VERSION.mp3"
+    },
+    {
+        "id": 72,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "6:31",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": " Arjun",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Mahabharat%20Arjun%20theme%20song.mp3"
+    },
+    {
+        "id": 71,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "1:27",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Shakuni",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Shakuni%20theme%20song%20mahabharat.mp3"
+    },
+    {
+        "id": 70,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:42",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Yada Yada Hi Dharmasya",
+        "url": "https://file.dewamp3ku.com/OST%20India/OST%20Mahabharata/Yada%20Yada%20Hi%20Dharmasya%20Govind%20Song.mp3"
+    },
+    {
+        "id": 69,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Aal Izz Well",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/3%20Idiots%209/Aal%20Izz%20Well%20%28Remix%29.mp3"
+    },
+    {
+        "id": 68,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:59",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Behti Hawa Sa Tha Woh",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/3%20Idiots%209/Behti%20Hawa%20Sa%20Tha%20Woh.mp3"
+    },
+    {
+        "id": 67,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:05",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Me Some Sunshine",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/3%20Idiots%209/Give%20Me%20Some%20Sunshine.mp3"
+    },
+    {
+        "id": 66,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:28",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Jaane Nahin Denge Tujhe",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/3%20Idiots%209/Jaane%20Nahin%20Denge%20Tujhe.mp3"
+    },
+    {
+        "id": 65,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:27",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Zoobi Doobi",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/3%20Idiots%209/Zoobi%20Doobi%20%28Remix%29.mp3"
+    },
+    {
+        "id": 64,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:56",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Aashiyan",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Barfi%21%20%28Original%20Motion%20Picture%20Soundtrack%29%202012/Aashiyan.mp3"
+    },
+    {
+        "id": 63,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "5:19",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ala Barfi",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Barfi%21%20%28Original%20Motion%20Picture%20Soundtrack%29%202012/Ala%20Barfi.mp3"
+    },
+    {
+        "id": 62,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:26",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Kyon",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Barfi%21%20%28Original%20Motion%20Picture%20Soundtrack%29%202012/Kyon.mp3"
+    },
+    {
+        "id": 61,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:28",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Main Kya Karoon",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Barfi%21%20%28Original%20Motion%20Picture%20Soundtrack%29%202012/Main%20Kya%20Karoon.mp3"
+    },
+    {
+        "id": 60,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "5:05",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Phir Le Aya Dil",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Barfi%21%20%28Original%20Motion%20Picture%20Soundtrack%29%202012/Phir%20Le%20Aya%20Dil%20-%20Reprise.mp3"
+    },
+    {
+        "id": 59,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "5:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Saawali Si Raat",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Barfi%21%20%28Original%20Motion%20Picture%20Soundtrack%29%202012/Saawali%20Si%20Raat.mp3"
+    },
+    {
+        "id": 58,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:59",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dangal",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dangal%202016/Dangal.mp3"
+    },
+    {
+        "id": 57,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "2:56",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dhaakad",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dangal%202016/Dhaakad%20-%20Aamir%20Khan%20Version.mp3"
+    },
+    {
+        "id": 56,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Gilehriyaan",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dangal%202016/Gilehriyaan.mp3"
+    },
+    {
+        "id": 55,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:22",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Haanikaarak Bapu",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dangal%202016/Haanikaarak%20Bapu.mp3"
+    },
+    {
+        "id": 54,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Idiot Banna",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dangal%202016/Idiot%20Banna.mp3"
+    },
+    {
+        "id": 53,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "3:45",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Naina",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dangal%202016/Naina.mp3"
+    },
+    {
+        "id": 52,
+        "album": null,
+        "artist": "India Songs",
+        "duration": "4:50",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Daayre",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Daayre.mp3"
+    },
+    {
+        "id": 51,
+        "album": "",
+        "artist": "Pritam",
+        "duration": "5:45",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Gerua",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Gerua.mp3"
+    },
+    {
+        "id": 50,
+        "album": "",
+        "artist": "Pritam",
+        "duration": "3:57",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Janam Janam",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Janam%20Janam.mp3"
+    },
+    {
+        "id": 49,
+        "album": "",
+        "artist": "Pritam",
+        "duration": "3:29",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Manma Emotion Jaage",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Manma%20Emotion%20Jaage.mp3"
+    },
+    {
+        "id": 48,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "3:45",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Premika",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Premika.mp3"
+    },
+    {
+        "id": 47,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "3:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "DJ Chetas Mix",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Theme%20of%20Dilwale%20-%20DJ%20Chetas%20Mix.mp3"
+    },
+    {
+        "id": 46,
+        "album": "",
+        "artist": "Pritam",
+        "duration": "4:07",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tukur Tukur",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Dilwale%20%28Original%20Motion%20Picture%20Soundtrack%29%202015/Tukur%20Tukur.mp3"
+    },
+    {
+        "id": 45,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "3:44",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Babul Jo Tum Ne Sikhaya",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Babul%20Jo%20Tum%20Ne%20Sikhaya.mp3"
+    },
+    {
+        "id": 44,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:27",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Chocolate Lime Juice",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Chocolate%20Lime%20Juice.mp3"
+    },
+    {
+        "id": 43,
+        "album": "",
+        "artist": "Mika Singh",
+        "duration": "8:07",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Dhiktana",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Dhiktana%2C%20Pt.%201.mp3"
+    },
+    {
+        "id": 42,
+        "album": "",
+        "artist": "Lata Mangeshkar",
+        "duration": "8:05",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Didi Tera Devar Deewana",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Didi%20Tera%20Devar%20Deewana.mp3"
+    },
+    {
+        "id": 41,
+        "album": "",
+        "artist": "Kalam se maut",
+        "duration": "0:59",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Hum Aapke Hain Koun",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Hum%20Aapke%20Hain%20Koun%20-%20Dialogues.mp3"
+    },
+    {
+        "id": 40,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:36",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Joote De Do Paise Le Lo",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Joote%20De%20Do%20Paise%20Le%20Lo.mp3"
+    },
+    {
+        "id": 39,
+        "album": "",
+        "artist": "Lata Mangeshkar",
+        "duration": "2:53",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Lo Chali Main",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Lo%20Chali%20Main.mp3"
+    },
+    {
+        "id": 38,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:03",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Mausam Ka Jaadu",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Mausam%20Ka%20Jaadu.mp3"
+    },
+    {
+        "id": 37,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:21",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Maye Ni Maye",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Maye%20Ni%20Maye.mp3"
+    },
+    {
+        "id": 36,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:02",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Mujhse Juda Hokar",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Mujhse%20Juda%20Hokar.mp3"
+    },
+    {
+        "id": 35,
+        "album": "",
+        "artist": "Alqama Ansari",
+        "duration": "4:25",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Pehla Pehla Pyar",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Pehla%20Pehla%20Pyar.mp3"
+    },
+    {
+        "id": 34,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:51",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Samdhi Samdhan",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Samdhi%20Samdhan.mp3"
+    },
+    {
+        "id": 33,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:13",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Wah Wah Ramji",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Hum%20Aapke%20Hain%20Koun%20%28Original%20Motion%20Picture%20Soundtrack%29%201994/Wah%20Wah%20Ramji.mp3"
+    },
+    {
+        "id": 32,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:23",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "En Panchiyon",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Koi%20Mil%20Gaya%202003/En%20Panchiyon.mp3"
+    },
+    {
+        "id": 31,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:53",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Haila Haila",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Koi%20Mil%20Gaya%202003/Haila%20Haila.mp3"
+    },
+    {
+        "id": 30,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:13",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Idhar Chala Main Udhar Chala",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Koi%20Mil%20Gaya%202003/Idhar%20Chala%20Main%20Udhar%20Chala.mp3"
+    },
+    {
+        "id": 29,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:29",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Jadoo Jadoo",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Koi%20Mil%20Gaya%202003/Jadoo%20Jadoo.mp3"
+    },
+    {
+        "id": 28,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:35",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Koi Mil Gaya",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Koi%20Mil%20Gaya%202003/Koi%20Mil%20Gaya.mp3"
+    },
+    {
+        "id": 27,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "1:25",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Kuch Kuch Hota Hai",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Kuch%20Kuch%20Hota%20Hai%201998/Kuch%20Kuch%20Hota%20Hai%20-%20Sad.mp3"
+    },
+    {
+        "id": 26,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:21",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ladki Badi Anjani Hai",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Kuch%20Kuch%20Hota%20Hai%201998/Ladki%20Badi%20Anjani%20Hai.mp3"
+    },
+    {
+        "id": 25,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "2:04",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Raghupati Raghav",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Kuch%20Kuch%20Hota%20Hai%201998/Raghupati%20Raghav.mp3"
+    },
+    {
+        "id": 24,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "7:13",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Saajanji Ghar Aaye",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Kuch%20Kuch%20Hota%20Hai%201998/Saajanji%20Ghar%20Aaye.mp3"
+    },
+    {
+        "id": 23,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "7:02",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tujhe Yaad Na Meri Aayee",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Kuch%20Kuch%20Hota%20Hai%201998/Tujhe%20Yaad%20Na%20Meri%20Aayee.mp3"
+    },
+    {
+        "id": 22,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:40",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Chale Chalo",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Lagaan%20%28Original%20Motion%20Picture%20Soundtrack%29%202001/Chale%20Chalo.mp3"
+    },
+    {
+        "id": 21,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:11",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ghanan Ghanan",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Lagaan%20%28Original%20Motion%20Picture%20Soundtrack%29%202001/Ghanan%20Ghanan.mp3"
+    },
+    {
+        "id": 20,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:47",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Mitwa",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Lagaan%20%28Original%20Motion%20Picture%20Soundtrack%29%202001/Mitwa.mp3"
+    },
+    {
+        "id": 19,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:18",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "O Paalanhaare",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Lagaan%20%28Original%20Motion%20Picture%20Soundtrack%29%202001/O%20Paalanhaare.mp3"
+    },
+    {
+        "id": 18,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:59",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "O Rey Chhori",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Lagaan%20%28Original%20Motion%20Picture%20Soundtrack%29%202001/O%20Rey%20Chhori.mp3"
+    },
+    {
+        "id": 17,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:34",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Radha Kaise Na Jale",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Lagaan%20%28Original%20Motion%20Picture%20Soundtrack%29%202001/Radha%20Kaise%20Na%20Jale.mp3"
+    },
+    {
+        "id": 16,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:01",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Allah Hi Reham",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Allah%20Hi%20Reham.mp3"
+    },
+    {
+        "id": 15,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "8:02",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Kabhi Alvida Naa Kehna",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Kabhi%20Alvida%20Naa%20Kehna.mp3"
+    },
+    {
+        "id": 14,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "5:20",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Kal Ho Naa Ho",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Kal%20Ho%20Naa%20Ho.mp3"
+    },
+    {
+        "id": 13,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:37",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Noor E Khuda",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Noor%20E%20Khuda.mp3"
+    },
+    {
+        "id": 12,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:05",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Sajdaa",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Sajdaa.mp3"
+    },
+    {
+        "id": 11,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "7:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Suraj Hua Maddham",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Suraj%20Hua%20Maddham.mp3"
+    },
+    {
+        "id": 10,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:38",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Tere Naina",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/My%20Name%20Is%20Khan%20%28Original%20Motion%20Picture%20Soundtrack%29%202010/Tere%20Naina.mp3"
+    },
+    {
+        "id": 9,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "1:27",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Ik Onka",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Ik%20Onkar.mp3"
+    },
+    {
+        "id": 8,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:18",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Khalbali",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Khalbali.mp3"
+    },
+    {
+        "id": 7,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "3:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Khoon Chala",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Khoon%20Chala.mp3"
+    },
+    {
+        "id": 6,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "2:55",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Lalkaar",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Lalkaar.mp3"
+    },
+    {
+        "id": 5,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:35",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Luka Chuppi",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Luka%20Chuppi.mp3"
+    },
+    {
+        "id": 4,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "3:39",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Masti Ki Paathshala",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Masti%20Ki%20Paathshala.mp3"
+    },
+    {
+        "id": 3,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "3:08",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Be a Rebel",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Paathshala%20-%20Be%20a%20Rebel.mp3"
+    },
+    {
+        "id": 2,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "6:02",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Rang De Basanti",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Rang%20De%20Basanti.mp3"
+    },
+    {
+        "id": 1,
+        "album": "",
+        "artist": "India Songs",
+        "duration": "4:41",
+        "image": "file:///android_asset/image/default.jpg",
+        "title": "Roobaroo",
+        "url": "https://file.dewamp3ku.com/OST%20FILM%20INDIA/Rang%20De%20Basanti%20%28Original%20Motion%20Picture%20Soundtrack%29%202006/Roobaroo.mp3"
+    }
+  ]
+}
